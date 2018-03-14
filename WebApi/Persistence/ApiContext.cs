@@ -17,6 +17,10 @@ namespace WebApi.Persistence
             : base(options)
         { }
 
+        public ApiContext(DbContextOptions dbContextOptions)
+            : base(dbContextOptions)
+        { }
+
         public DbSet<User> Users { get; set; }
 
         public DbSet<Blog> Blogs { get; set; }
@@ -24,7 +28,18 @@ namespace WebApi.Persistence
 
         //public DbSet<Product> Products { get; set; }
         //public DbSet<Address> Address { get; set; }
-        
-        
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            //    modelBuilder.Entity<User>()
+            //        .HasOne(b => b.Author)
+            //        .WithMany(a => a.Books)
+            //        .OnDelete(DeleteBehavior.SetNull);
+        }
+
+        //protected override void OnModelCreating(DbModelBuilder modelBuilder)
+        //{
+        //    modelBuilder.Types<IObjectWithState>().Configure(c => c.Ignore(p => p.State));
+        //}
     }
 }

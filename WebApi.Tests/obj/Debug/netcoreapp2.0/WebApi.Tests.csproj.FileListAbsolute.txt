@@ -1,0 +1,17 @@
+C:\Code\WebApi\WebApi.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Code\WebApi\WebApi.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Code\WebApi\WebApi.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Code\WebApi\WebApi.Tests\bin\Debug\netcoreapp2.0\WebApi.Tests.deps.json
+C:\Code\WebApi\WebApi.Tests\bin\Debug\netcoreapp2.0\WebApi.Tests.runtimeconfig.json
+C:\Code\WebApi\WebApi.Tests\bin\Debug\netcoreapp2.0\WebApi.Tests.runtimeconfig.dev.json
+C:\Code\WebApi\WebApi.Tests\bin\Debug\netcoreapp2.0\WebApi.Tests.dll
+C:\Code\WebApi\WebApi.Tests\bin\Debug\netcoreapp2.0\WebApi.Tests.pdb
+C:\Code\WebApi\WebApi.Tests\bin\Debug\netcoreapp2.0\WebApi.dll
+C:\Code\WebApi\WebApi.Tests\bin\Debug\netcoreapp2.0\WebApi.pdb
+C:\Code\WebApi\WebApi.Tests\obj\Debug\netcoreapp2.0\WebApi.Tests.csprojResolveAssemblyReference.cache
+C:\Code\WebApi\WebApi.Tests\obj\Debug\netcoreapp2.0\WebApi.Tests.csproj.CoreCompileInputs.cache
+C:\Code\WebApi\WebApi.Tests\obj\Debug\netcoreapp2.0\WebApi.Tests.AssemblyInfoInputs.cache
+C:\Code\WebApi\WebApi.Tests\obj\Debug\netcoreapp2.0\WebApi.Tests.AssemblyInfo.cs
+C:\Code\WebApi\WebApi.Tests\obj\Debug\netcoreapp2.0\WebApi.Tests.csproj.CopyComplete
+C:\Code\WebApi\WebApi.Tests\obj\Debug\netcoreapp2.0\WebApi.Tests.dll
+C:\Code\WebApi\WebApi.Tests\obj\Debug\netcoreapp2.0\WebApi.Tests.pdb
